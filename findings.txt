@@ -14,3 +14,5 @@ Well there is a question about what symbols do we have. Here's my face when i re
 ⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿
 
 So the main mardavari symbols that i can distinguish are main, square and our lovely printf. everything else is just either assembly section or some linux-ish stuff which does not give much useful info. so yeah, thats what we have. thank you for reading up to this point
+
+here's my github repo link: https://github.com/LHopitalOne/aua-os-hw4
